@@ -1,5 +1,6 @@
 # learning-resources
-一些有用的学习资源
+
+####一些有用的学习资源
 
 --
 
@@ -45,6 +46,11 @@
 
 ### [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui.git)
 
+### [PHP设计模式](https://github.com/domnikl/DesignPatternsPHP.git)
+
+### [swoole-crontab](https://github.com/osgochina/swoole-crontab.git)
+
+### [image(php图片处理库)](https://github.com/Intervention/image.git)
 
 
 
