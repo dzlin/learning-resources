@@ -88,6 +88,21 @@
 
 ### [algorithms](https://github.com/xtaci/algorithms.git)
 
+### [manong(码农)](https://github.com/nemoTyrant/manong.git)
+
+### [notes(资源笔记)](https://github.com/huanghua581/notes.git)
+
+### [PHP-file-upload-class](https://github.com/aivis/PHP-file-upload-class.git)
+
+### [free-programming-books(免费编程书籍)](https://github.com/justjavac/free-programming-books-zh_CN.git)
+
+### [composer-doc-cn](https://github.com/5-say/composer-doc-cn.git)
+
+### [数据结构与算法](https://github.com/wangkuiwu/datastructs_and_algorithm.git)
+
+### [php-spl](https://github.com/cballou/PHP-SPL-Iterator-Interface-Examples.git)
+
+### [javascript代码](https://github.com/arthinking/Javascript.git)
 
 
 
