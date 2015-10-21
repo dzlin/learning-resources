@@ -52,8 +52,41 @@
 
 ### [image(php图片处理库)](https://github.com/Intervention/image.git)
 
+### [PHPExcel](https://github.com/PHPOffice/PHPExcel.git)
 
+### [swiftmailer](https://github.com/swiftmailer/swiftmailer.git)
 
+### [php-curl-class](https://github.com/php-curl-class/php-curl-class.git)
+
+### [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload.git)
+
+### [SeasLog](https://github.com/Neeke/SeasLog.git)
+
+### [Filemanager](https://github.com/simogeo/Filemanager.git)
+
+### [phpredis](https://github.com/phpredis/phpredis.git)
+
+### [Restler](https://github.com/Luracast/Restler.git)
+
+### [PHP-MySQL-PDO-Class](https://github.com/indieteq/PHP-MySQL-PDO-Database-Class.git)
+
+### [Ardent](https://github.com/morrisonlevi/Ardent.git)
+
+### [PHP-Hooks](https://github.com/bainternet/PHP-Hooks.git)
+
+### [front-end-collect](https://github.com/hjzheng/front-end-collect.git)
+
+### [swoole-doc](https://github.com/LinkedDestiny/swoole-doc.git)
+
+### [Workerman](https://github.com/PHPNuts/Workerman.git)
+
+### [phpmode(php设计模式演示)](https://github.com/refine1017/phpmode.git)
+
+### [javascript数据结构算法](https://github.com/JsAaron/Data-Structures-And-Algorithms.git)
+
+### [phphooks](https://github.com/ryanhs/hook.git)
+
+### [algorithms](https://github.com/xtaci/algorithms.git)
 
 
 
