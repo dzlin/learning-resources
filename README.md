@@ -29,7 +29,21 @@
 
 ### [swoole-src](https://github.com/swoole/swoole-src.git)
 
+### [awesome-javescript](https://github.com/sorrycc/awesome-javascript.git)
 
+### [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs.git)
+
+### [awesome-cpp](https://github.com/fffaraz/awesome-cpp.git)
+
+### [pthreads](https://github.com/krakjoe/pthreads.git)
+
+### [awesome-android](https://github.com/snowdream/awesome-android.git)
+
+### [awesome-algorthms](https://github.com/tayllan/awesome-algorithms.git)
+
+### [awesome-php](https://github.com/ziadoz/awesome-php.git)
+
+### [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui.git)
 
 
 
