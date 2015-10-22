@@ -104,6 +104,21 @@
 
 ### [javascript代码](https://github.com/arthinking/Javascript.git)
 
+### [php-webim](https://github.com/matyhtf/php-webim.git)
+
+### [sendgrid](https://github.com/sendgrid/sendgrid-php.git)
+
+### [phpservermon](https://github.com/phpservermon/phpservermon.git)
+
+### [httpie](https://github.com/jkbrzt/httpie.git)
+
+### [commandlinefu.cn](https://github.com/tg123/commandlinefu.cn.git)
+
+### [android-open-project](https://github.com/Trinea/android-open-project.git)
+
+### [fig-standards](https://github.com/php-fig/fig-standards.git)
+
+### [Sockets](https://github.com/navarr/Sockets.git)
 
 
 
@@ -118,8 +133,7 @@
 
 
 
-
-# 待整理
+# 更多待整理...
 
 # LICENCE
 
