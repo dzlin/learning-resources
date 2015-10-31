@@ -120,6 +120,7 @@
 
 ### [Sockets](https://github.com/navarr/Sockets.git)
 
+### [mail](https://github.com/zetacomponents/Mail.git)
 
 
 
