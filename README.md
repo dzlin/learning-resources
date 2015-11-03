@@ -122,7 +122,7 @@
 
 ### [mail](https://github.com/zetacomponents/Mail.git)
 
-
+### [lib-observer](https://github.com/kherge-abandoned/lib-observer.git)
 
 
 
