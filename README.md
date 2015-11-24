@@ -132,6 +132,12 @@
 
 ### [ldap](https://github.com/ccottet/ldap.git)
 
+### [ladpap2](https://github.com/dzlin/Adldap2.git)
+
+### [adldap](https://github.com/dzlin/adLDAP.git)
+
+### [yii2-ladp-module](https://github.com/dzlin/yii2-adldap-module.git)
+
 
 
 
