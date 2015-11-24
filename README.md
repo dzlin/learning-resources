@@ -132,11 +132,17 @@
 
 ### [ldap](https://github.com/ccottet/ldap.git)
 
-### [ladpap2](https://github.com/dzlin/Adldap2.git)
+### [ladpap2](https://github.com/Adldap2/Adldap2.git)
 
-### [adldap](https://github.com/dzlin/adLDAP.git)
+### [adldap](https://github.com/adldap/adLDAP.git)
 
-### [yii2-ladp-module](https://github.com/dzlin/yii2-adldap-module.git)
+### [yii2-ldap](https://github.com/edvler/yii2-adldap-module.git)
+
+### [Mail](https://github.com/zetacomponents/Mail.git)
+
+### [fend_note](https://github.com/li-xinyang/FEND_Note.git)
+
+### [styleguide](https://github.com/fex-team/styleguide.git)
 
 
 
