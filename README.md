@@ -128,11 +128,25 @@
 
 ### [AOP](https://github.com/dongnan/microAOP.git)
 
+### [php_timer](https://github.com/sebastianbergmann/php-timer.git)
 
+### [ldap](https://github.com/ccottet/ldap.git)
 
+### [ladpap2](https://github.com/Adldap2/Adldap2.git)
 
+### [adldap](https://github.com/adldap/adLDAP.git)
 
+### [yii2-ldap](https://github.com/edvler/yii2-adldap-module.git)
 
+### [Mail](https://github.com/zetacomponents/Mail.git)
+
+### [fend_note](https://github.com/li-xinyang/FEND_Note.git)
+
+### [styleguide](https://github.com/fex-team/styleguide.git)
+
+### [前端开发](https://github.com/imweb/FKB.git)
+
+### [php深入面向对象](https://github.com/mzkmzk/Read/blob/master/shen_ru_php_mian_xiang_dui_xiang_3001_mo_shi_yu_sh.md)
 
 # 更多待整理...
 
