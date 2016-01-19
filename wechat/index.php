@@ -6,7 +6,7 @@ require 'vendor/autoload.php';
 require 'WeChat.php';
 require 'WeChatUser.php';
 
-$accessToken = 'hmdqROw64hmGGLL2BH05FPrdMdagNZ3Wfer61GVFJhwY1VpXcSSfQYnyYVSQtIf9vc3pC7wLo3lXmYy59KFhUw';
+$accessToken = 'your access_token';
 
 /*
   $userid = 'gzdzl001';
