@@ -60,8 +60,62 @@ $accessToken = 'hmdqROw64hmGGLL2BH05FPrdMdagNZ3Wfer61GVFJhwY1VpXcSSfQYnyYVSQtIf9
   echo 'Batch delete success.';
   }
  */
-$userid = '18070510342';
-$wechat = new WeChat($accessToken);
-$user = $wechat->getUser($userid);
+
+/*
+  $userid = '18070510342';
+  $wechat = new WeChat($accessToken);
+  $user = $wechat->getUser($userid);
+  echo '<pre>';
+  var_dump($user);
+ */
+
+/*
+  echo '<pre>';
+  $wechat = new WeChat($accessToken);
+  $users = $wechat->getUsersSimple(1);
+
+  var_dump($users);
+ */
+
+/*
+  echo '<pre>';
+  $wechat = new WeChat($accessToken);
+  $users = $wechat->getUsersDetail('3');
+
+  var_dump($users);
+
+ */
+
+/*
+  $wechat = new WeChat($accessToken);
+  $depeid = $wechat->createDepartment('deparment_name_sub_2', 17, 1);
+  if ($depeid <= 0) {
+  echo 'Error: ' . $wechat->getErrmsg();
+  } else {
+  echo 'Create department success.' . ' id => ' . $depeid;
+  }
+ */
+
+/*
+  $wechat = new WeChat($accessToken);
+  $bool = $wechat->updateDepartment(19, 'department_update', 1);
+  if (!$bool) {
+  echo 'Error: ' . $wechat->getErrmsg();
+  } else {
+  echo 'update department success.';
+  }
+ */
+
+/*
+  $wechat = new WeChat($accessToken);
+  $bool = $wechat->deleteDepartment(17);
+  if (!$bool) {
+  echo 'Error: ' . $wechat->getErrmsg();
+  } else {
+  echo 'delete department success.';
+  }
+ */
 echo '<pre>';
-var_dump($user);
+$wechat = new WeChat($accessToken);
+$departments = $wechat->getDepartments(17);
+var_dump($departments);
