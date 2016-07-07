@@ -152,6 +152,8 @@
 
 ### [bootstrap-markdown](https://github.com/toopay/bootstrap-markdown.git)
 
+### [gulp](https://github.com/gulpjs/gulp.git)
+
 # 更多待整理...
 
 # LICENCE
